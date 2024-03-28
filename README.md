@@ -1,0 +1,2 @@
+# boilerplate
+learning bash scripting
